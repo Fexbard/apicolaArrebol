@@ -132,20 +132,17 @@
     {
       "img": "img/team/03.jpg",
       "name": "",
-      "job": "",
-      "secondJob": "" 
+      "job": ""
     },
     {
       "img": "img/team/01.jpg",
       "name": "Marta Rodríguez",
-      "job": "Apicultora",
-      "secondJob": "Especialista en Rescate de Enjambres" 
+      "job": "Especialista en Rescate de Enjambres",
     },
     {
       "img": "img/team/02b.jpg",
       "name": "Ignacio Pérez",
-      "job": "Apicultor",
-      "secondJob": "Especialista Técnico" 
+      "job": "Especialista Técnico"
     },
     {
       "img": "img/team/03.jpg",
