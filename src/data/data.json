@@ -1,0 +1,187 @@
+{
+  "Header": {
+    "title": "Apicultura para la Vida",
+    "paragraph": "Conectando la naturaleza con tu paladar. Bienvenido a nuestra colmena virtual, donde la pasión por la apicultura se convierte en miel de calidad."
+  },
+  "About": {  
+    "paragraph": "En Arrebol, nuestra pasión por la apicultura impulsa cada paso que damos. Descubre cómo nuestra dedicación y compromiso nos lleva a brindarte un producto de calidad.",
+    "Why": [
+      "Producto 100 % orgánico",
+      "Libre de pesticidas",
+      " Amplia gama de sabores de miel",
+      "Altos estándares de calidad en la producción"
+    ],
+    "Why2": [
+      "Transparencia en todo el proceso de producción",
+      "Empleamos métodos de producción sostenibles",
+      "Contamos con más de 25 años de experiencia"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Productos",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Natural",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Reserva de la Biosfera",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Alimentación de la Colmena",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Velas de Cera de Abeja",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Shampoo & Acondicionador",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Jornada",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Barba de abejas",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Bosques Nativos",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-forumbee",
+      "name": "Venta de Miel",
+      "text": "Endulzante natural producido por las abejas a partir del néctar de las flores. Rica en antioxidantes, vitaminas y minerales, es conocida por su capacidad para fortalecer el sistema inmunológico."
+    },
+    {
+      "icon": "fa fa-filter",
+      "name": "Venta de Propóleo y Velas",
+      "text": "El propóleo es una sustancia resinosa creada por las abejas a partir de brotes y yemas de árboles. Reconocido por sus propiedades antimicrobianas y antioxidantes."
+    },
+    {
+      "icon": "fa fa-magic",
+      "name": "Venta de Productos Cosméticos",
+      "text": "Contamos con shampoo, jabón y acondicionar a base de miel. Enriquecidos con los beneficios naturales de la miel, productos 100% recomendables y saludables."
+    },
+    {
+      "icon": "fa fa-cubes",
+      "name": "Venta de Núcleos",
+      "text": "Son unidades más pequeñas de colmenas, suelen contener una población reducida de abejas y se utilizan para iniciar nuevas colonias, criar reinas, o para transportar abejas a diferentes ubicaciones."
+    },
+    {
+      "icon": "fa fa-user",
+      "name": "Asesorías de Producción",
+      "text": "Potencia tu conocimiento apícola con nuestras asesorías expertas. Mejora tus prácticas y alcanza el éxito en la apicultura de manera responsable y sostenible."
+    },
+    {
+      "icon": "fa fa-pagelines",
+      "name": "Rescate de Enjambres",
+      "text": "Además de proteger a las abejas, el rescate de enjambres contribuye a la preservación de la biodiversidad y ayuda a mitigar los efectos negativos de la pérdida de hábitat."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"He probado muchas mieles, pero ninguna se compara con la calidad de esta. ¡Es auténticamente deliciosa y natural.\"",
+      "name": "Alejandro Vera"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"La miel de Arrebol es mi elección número uno para endulzar mi café. ¡Su sabor suave y natural lo hace perfecto para mi mañana!.\"",
+      "name": "Andrea Poblete"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Es mi acompañante perfecta para mis postres. Su dulzura natural y consistencia son insuperables. ¡La recomiendo totalmente!.\"",
+      "name": "Marcela Peña"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Recomiendo todos los productos de Arrebol, sobre todo la miel para agregarla al yogur o la avena.\"",
+      "name": "Jorge Luis Rodríguez"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Siempre elijo esta miel para mis hijos. Es natural y deliciosa, y me da paz saber que están consumiendo algo bueno para ellos.\"",
+      "name": "Javier Bernal"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\" El propóleo de Arrebol es mi aliado para fortalecer mi sistema inmunológico. Lo tomo regularmente y me siento más resistente ante resfriados y enfermedades..\"",
+      "name": "Paola Ramirez"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/03.jpg",
+      "name": "",
+      "job": "",
+      "secondJob": "" 
+    },
+    {
+      "img": "img/team/01.jpg",
+      "name": "Marta Rodríguez",
+      "job": "Apicultora",
+      "secondJob": "Especialista en Rescate de Enjambres" 
+    },
+    {
+      "img": "img/team/02b.jpg",
+      "name": "Ignacio Pérez",
+      "job": "Apicultor",
+      "secondJob": "Especialista Técnico" 
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "",
+      "job": "",
+      "secondJob": "" 
+    }
+  ],
+  "Contact": {
+    "address": "Almirante Latorre 632, Limache ",
+    "phone": "+56 9 85031657",
+    "email": "martalimache@gmail.com",
+    "facebook": "http://www.facebook.com",
+    "twitter": "twitter.com",
+    "instagram": "https://www.instagram.com/marta_apicultora?utm_source=qr&igsh=MWVpc3d1ZXVqc3Y1eA=="
+  },
+  "Features": [
+    {
+      "icon": "fa fa-forumbee",
+      "title": "Miel",
+      "text": "Contamos con variadades tales como Eucalipto, Quillay y Multifloral. Cada uno con sus respectivas caraterísticas bien marcadas, tales como el sabor, color y aroma."
+    },
+    {
+      "icon": "fa fa-filter",
+      "title": "Propóleo",
+      "text": "Posee propiedades antibacterianas, antifúngicas, antiinflamatorias y antioxidantes, lo que la hace valiosa tanto para las abejas como para los seres humanos."
+    },
+    {
+      "icon": "fa fa-fire",
+      "title": "Velas",
+      "text": "Son conocidas por su fragancia suave y natural, así como por su luz tenue y cálida que ayuda a descansar la vista. Tienen la propiedad de purificar el aire, además son de lenta combustión."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Productos Cosméticos",
+      "text": "Productos a base de los nutrientes naturales de la miel y el propóleo. Contamos con shampoo, bálsamo y jabón líquido. Nuestros productos son de calidad comprobada ."
+    }
+  ]
+}
