@@ -14,10 +14,10 @@ export const Header = (props) => {
                 </h1>
                 <p>{props.data ? props.data.paragraph : "Loading"}</p>
                 <a
-                  href="#features"
-                  className="btn btn-custom btn-lg page-scroll"
-                >
-                  Saber más
+                  href="https://wa.me/56985031657" target="blank"
+                  className="btn btn-success btn-lg page-scroll"
+                ><i className="fa fa-whatsapp"></i> {""}
+                  WhatsApp
                 </a>{" "}
               </div>
             </div>
