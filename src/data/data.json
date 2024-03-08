@@ -115,7 +115,7 @@
     {
       "img": "img/testimonials/04.jpg",
       "text": "\"Recomiendo todos los productos de Arrebol, sobre todo la miel para agregarla al yogur o la avena.\"",
-      "name": "Jorge Luis Rodríguez"
+      "name": "Estéfani Barreda"
     },
     {
       "img": "img/testimonials/05.jpg",
@@ -129,11 +129,7 @@
     }
   ],
   "Team": [
-    {
-      "img": "img/team/03.jpg",
-      "name": "",
-      "job": ""
-    },
+
     {
       "img": "img/team/01.jpg",
       "name": "Marta Rodríguez",
@@ -143,12 +139,6 @@
       "img": "img/team/02b.jpg",
       "name": "Ignacio Pérez",
       "job": "Especialista Técnico"
-    },
-    {
-      "img": "img/team/03.jpg",
-      "name": "",
-      "job": "",
-      "secondJob": "" 
     }
   ],
   "Contact": {
