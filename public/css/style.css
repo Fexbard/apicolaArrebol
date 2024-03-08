@@ -75,7 +75,7 @@ hr {
   padding: 15px;
   transition: all 0.8s;
 }
-#menu .logo{
+.logo{
   position: absolute;
   top:0;
   left:25px;
@@ -155,6 +155,7 @@ hr {
   margin-bottom: 15px;
   padding-bottom: 15px;
 }
+/*línea debajo de Productos*/
 .section-title h2::after {
   position: absolute;
   content: "";
@@ -214,7 +215,7 @@ a:focus,
   display: table;
   width: 100%;
   padding: 0;
-  background: url(../img/intro-bg.jpg) center center no-repeat;
+  background: url(../img/intro-bg2.jpg) center center no-repeat;
   background-color: #e5e5e5;
   -webkit-background-size: cover;
   -moz-background-size: cover;
